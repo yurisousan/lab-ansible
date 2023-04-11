@@ -1,0 +1,33 @@
+---
+galaxy_info:
+  author: Alvaro Bacelar
+  description: Install docker community on server ubuntu or centos
+  company: Alvaro Bacelr
+
+  license: Apache License, Version 2.0
+
+  min_ansible_version: 2.4
+  platforms:
+    - name: EL
+      versions:
+        - 7
+    - name: Fedora
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - jessie
+        - stretch
+    - name: Ubuntu
+      versions:
+        - trusty
+        - xenial
+        - bionic
+  galaxy_tags:
+    - web
+    - system
+    - containers
+    - docker
+    - server
+
+dependencies: []
