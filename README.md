@@ -1,5 +1,4 @@
 # Iniciando com o Ansible
-
 ## Instalar o ansible em um host - virtualbox ou outros.
 Aqui na raiz do repo vou deixar o Vagrantfile para facilitar a vida, nele consta o nome das maquinas, vms com 1gb de ram(cada)
 
